@@ -6,3 +6,10 @@
     background: aqua;
     color: #fff;
 }
+
+.card{
+    width: 300px;
+    p{
+        width: 100px;
+    }
+}
